@@ -22,7 +22,6 @@ I am a Computer Programming graduate interested in software development and web 
 
 ### 📂 Featured Projects
 
-* 🎯 C# Programming Projects
 * 🗄️ Tourism Automation Database – SQL Server
 * 🌐 Explore Türkiye – HTML5 & CSS3
 * 📝 Web Design Projects
